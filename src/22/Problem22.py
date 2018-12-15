@@ -1,7 +1,7 @@
 import time
 
 
-def problem22(filename) -> int:
+def problem22(filename: str) -> int:
     file = open(filename, 'r')
     names = sorted([str(name).strip('"').lower() for name in file.read().split(',')])
 
