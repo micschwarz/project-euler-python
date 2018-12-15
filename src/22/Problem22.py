@@ -12,7 +12,7 @@ def problem22(filename: str) -> int:
     return total
 
 
-def get_name_val(name: str) -> str:
+def get_name_val(name: str) -> int:
     val = 0
     for char in name:
         val += get_alphabetical_value(char)
