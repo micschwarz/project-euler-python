@@ -5,3 +5,4 @@ Solutions for [Project Euler](https://projecteuler.net/problem=0) written in Pyt
 ## Problems solved:
 - 16: 1366
 - 18: 1074
+- 22: 871198282
