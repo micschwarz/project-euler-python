@@ -6,3 +6,4 @@ Solutions for [Project Euler](https://projecteuler.net/problem=0) written in Pyt
 - 16: 1366
 - 18: 1074
 - 22: 871198282
+- 25: 4782
